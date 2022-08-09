@@ -1,0 +1,5 @@
+package com.cris.pdf.service;
+
+public class PDFGeneratorService {
+
+}
