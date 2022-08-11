@@ -19,4 +19,7 @@
     <fullyQualifiedTypeName name="com.lowagie.text.Phrase"/>
     <fullyQualifiedTypeName name="com.lowagie.text.DocumentException"/>
     <fullyQualifiedTypeName name="com.lowagie.text.pdf.PdfPTable"/>
+    <fullyQualifiedTypeName name="com.lowagie.text.Image"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.jni.File"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 </qualifiedTypeNameHistroy>
